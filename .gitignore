@@ -16,6 +16,7 @@ BuildingEscape/StarterContent/HDRI
 
 *.ipch
 *VC.db
+*VC.db*
 *.suo
 *.VC.opendb
 *.sln
